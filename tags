@@ -1,0 +1,470 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/jc/.config/nvim/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/p5.9.20220828.0/
+0	my-snippets/package.json	/^        "language": ["csharp", "cs"],$/;"	s	array:contributes.snippets.3.language
+0	my-snippets/package.json	/^        "language": ["css", "scss", "sass", "less", "stylus"],$/;"	s	array:contributes.snippets.30.language
+0	my-snippets/package.json	/^        "language": ["gitcommit", "NeogitCommitMessage"],$/;"	s	array:contributes.snippets.4.language
+0	my-snippets/package.json	/^        "language": ["html", "jade", "pug", "eruby"],$/;"	s	array:contributes.snippets.29.language
+0	my-snippets/package.json	/^        "language": ["javascript", "javascriptreact", "vue"],$/;"	s	array:contributes.snippets.31.language
+0	my-snippets/package.json	/^        "language": ["markdown", "rmd"],$/;"	s	array:contributes.snippets.26.language
+0	my-snippets/package.json	/^        "language": ["plaintex", "tex"],$/;"	s	array:contributes.snippets.27.language
+0	my-snippets/package.json	/^        "language": ["plaintex", "tex"],$/;"	s	array:contributes.snippets.56.language
+0	my-snippets/package.json	/^        "language": ["plaintex", "tex"],$/;"	s	array:contributes.snippets.57.language
+0	my-snippets/package.json	/^        "language": ["plaintext", "markdown", "tex", "html", "global"],$/;"	s	array:contributes.snippets.0.language
+0	my-snippets/package.json	/^        "language": ["r", "rmd"],$/;"	s	array:contributes.snippets.59.language
+0	my-snippets/package.json	/^        "language": ["shellscript", "shell", "sh"],$/;"	s	array:contributes.snippets.25.language
+0	my-snippets/package.json	/^        "language": ["typescript", "typescriptreact"],$/;"	s	array:contributes.snippets.32.language
+0	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+0	my-snippets/snippets/c.json	/^			"for (${1:int} ${2:i} = ${3:0}; $2 < ${4:length}; ++$2) {",$/;"	s	array:fori.body
+0	my-snippets/snippets/cpp.json	/^            "#include <algorithm>",$/;"	s	array:lc.body
+0	my-snippets/snippets/cpp.json	/^            "class Solution",$/;"	s	array:solu.body
+1	my-snippets/package.json	/^        "language": ["csharp", "cs"],$/;"	s	array:contributes.snippets.3.language
+1	my-snippets/package.json	/^        "language": ["css", "scss", "sass", "less", "stylus"],$/;"	s	array:contributes.snippets.30.language
+1	my-snippets/package.json	/^        "language": ["gitcommit", "NeogitCommitMessage"],$/;"	s	array:contributes.snippets.4.language
+1	my-snippets/package.json	/^        "language": ["html", "jade", "pug", "eruby"],$/;"	s	array:contributes.snippets.29.language
+1	my-snippets/package.json	/^        "language": ["javascript", "javascriptreact", "vue"],$/;"	s	array:contributes.snippets.31.language
+1	my-snippets/package.json	/^        "language": ["markdown", "rmd"],$/;"	s	array:contributes.snippets.26.language
+1	my-snippets/package.json	/^        "language": ["plaintex", "tex"],$/;"	s	array:contributes.snippets.27.language
+1	my-snippets/package.json	/^        "language": ["plaintex", "tex"],$/;"	s	array:contributes.snippets.56.language
+1	my-snippets/package.json	/^        "language": ["plaintex", "tex"],$/;"	s	array:contributes.snippets.57.language
+1	my-snippets/package.json	/^        "language": ["plaintext", "markdown", "tex", "html", "global"],$/;"	s	array:contributes.snippets.0.language
+1	my-snippets/package.json	/^        "language": ["r", "rmd"],$/;"	s	array:contributes.snippets.59.language
+1	my-snippets/package.json	/^        "language": ["shellscript", "shell", "sh"],$/;"	s	array:contributes.snippets.25.language
+1	my-snippets/package.json	/^        "language": ["typescript", "typescriptreact"],$/;"	s	array:contributes.snippets.32.language
+1	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+1	my-snippets/snippets/c.json	/^			"\\t$0",$/;"	s	array:fori.body
+1	my-snippets/snippets/cpp.json	/^            "#include <iostream>",$/;"	s	array:lc.body
+1	my-snippets/snippets/cpp.json	/^            "{",$/;"	s	array:solu.body
+10	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+10	my-snippets/snippets/cpp.json	/^            "\\t$1 $2($3) {",$/;"	s	array:lc.body
+11	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+11	my-snippets/snippets/cpp.json	/^            "\\t\\t$4",$/;"	s	array:lc.body
+12	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+12	my-snippets/snippets/cpp.json	/^            "\\t}",$/;"	s	array:lc.body
+13	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+13	my-snippets/snippets/cpp.json	/^            "};",$/;"	s	array:lc.body
+14	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+14	my-snippets/snippets/cpp.json	/^            "",$/;"	s	array:lc.body
+15	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+15	my-snippets/snippets/cpp.json	/^            "int main(int argc, char *argv[]) {",$/;"	s	array:lc.body
+16	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+16	my-snippets/snippets/cpp.json	/^            "\\tSolution s;",$/;"	s	array:lc.body
+17	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+17	my-snippets/snippets/cpp.json	/^            "\\ts.$2();",$/;"	s	array:lc.body
+18	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+18	my-snippets/snippets/cpp.json	/^            "\\treturn 0;",$/;"	s	array:lc.body
+19	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+19	my-snippets/snippets/cpp.json	/^            "}"$/;"	s	array:lc.body
+2	my-snippets/package.json	/^        "language": ["css", "scss", "sass", "less", "stylus"],$/;"	s	array:contributes.snippets.30.language
+2	my-snippets/package.json	/^        "language": ["html", "jade", "pug", "eruby"],$/;"	s	array:contributes.snippets.29.language
+2	my-snippets/package.json	/^        "language": ["javascript", "javascriptreact", "vue"],$/;"	s	array:contributes.snippets.31.language
+2	my-snippets/package.json	/^        "language": ["plaintext", "markdown", "tex", "html", "global"],$/;"	s	array:contributes.snippets.0.language
+2	my-snippets/package.json	/^        "language": ["shellscript", "shell", "sh"],$/;"	s	array:contributes.snippets.25.language
+2	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+2	my-snippets/snippets/c.json	/^			"}"$/;"	s	array:fori.body
+2	my-snippets/snippets/cpp.json	/^            "#include <string>",$/;"	s	array:lc.body
+2	my-snippets/snippets/cpp.json	/^            "public:",$/;"	s	array:solu.body
+20	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+21	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+22	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+23	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+24	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+25	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+26	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+27	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+28	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+29	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+3	my-snippets/package.json	/^        "language": ["css", "scss", "sass", "less", "stylus"],$/;"	s	array:contributes.snippets.30.language
+3	my-snippets/package.json	/^        "language": ["html", "jade", "pug", "eruby"],$/;"	s	array:contributes.snippets.29.language
+3	my-snippets/package.json	/^        "language": ["plaintext", "markdown", "tex", "html", "global"],$/;"	s	array:contributes.snippets.0.language
+3	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+3	my-snippets/snippets/cpp.json	/^            "#include <vector>",$/;"	s	array:lc.body
+3	my-snippets/snippets/cpp.json	/^            "\\t$1 $2($3) {",$/;"	s	array:solu.body
+30	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+31	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+32	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+33	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+34	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+35	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+36	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+37	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+38	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+39	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+4	my-snippets/package.json	/^        "language": ["css", "scss", "sass", "less", "stylus"],$/;"	s	array:contributes.snippets.30.language
+4	my-snippets/package.json	/^        "language": ["plaintext", "markdown", "tex", "html", "global"],$/;"	s	array:contributes.snippets.0.language
+4	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+4	my-snippets/snippets/cpp.json	/^            "",$/;"	s	array:lc.body
+4	my-snippets/snippets/cpp.json	/^            "\\t\\t$4",$/;"	s	array:solu.body
+40	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+41	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+42	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+43	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+44	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+45	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+46	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+47	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+48	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+49	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+5	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+5	my-snippets/snippets/cpp.json	/^            "\\t}",$/;"	s	array:solu.body
+5	my-snippets/snippets/cpp.json	/^            "using namespace std;",$/;"	s	array:lc.body
+50	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+51	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+52	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+53	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+54	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+55	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+56	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+57	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+58	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+59	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+6	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+6	my-snippets/snippets/cpp.json	/^            "",$/;"	s	array:lc.body
+6	my-snippets/snippets/cpp.json	/^            "};"$/;"	s	array:solu.body
+60	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+61	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+62	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+63	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+64	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+7	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+7	my-snippets/snippets/cpp.json	/^            "class Solution",$/;"	s	array:lc.body
+8	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+8	my-snippets/snippets/cpp.json	/^            "{",$/;"	s	array:lc.body
+9	my-snippets/package.json	/^      {$/;"	o	array:contributes.snippets
+9	my-snippets/snippets/cpp.json	/^            "public:",$/;"	s	array:lc.body
+Acknowledgement	README.md	/^# Acknowledgement$/;"	c
+Details	README.md	/^# Details$/;"	c
+EOABORT	install/install.sh	/^		cat <<EOABORT$/;"	h
+EOS	install/install.sh	/^cat <<EOS$/;"	h
+Introduction	README.md	/^# Introduction$/;"	c
+["<C-h>"]	lua/modules/completion/config.lua	/^			["<C-h>"] = function(fallback)$/;"	f
+["<C-l>"]	lua/modules/completion/config.lua	/^			["<C-l>"] = function(fallback)$/;"	f
+["<S-Tab>"]	lua/modules/completion/config.lua	/^			["<S-Tab>"] = cmp.mapping(function(fallback)$/;"	f
+["<Tab>"]	lua/modules/completion/config.lua	/^			["<Tab>"] = cmp.mapping(function(fallback)$/;"	f
+["[["]	lua/modules/editor/config.lua	/^					["[["] = "@function.outer",$/;"	f
+["[]"]	lua/modules/editor/config.lua	/^					["[]"] = "@function.outer",$/;"	f
+["]["]	lua/modules/editor/config.lua	/^					["]["] = "@function.outer",$/;"	f
+["]]"]	lua/modules/editor/config.lua	/^					["]]"] = "@function.outer",$/;"	f
+["af"]	lua/modules/editor/config.lua	/^					["af"] = "@function.outer",$/;"	f
+["if"]	lua/modules/editor/config.lua	/^					["if"] = "@function.inner",$/;"	f
+__index	lua/core/pack.lua	/^	__index = function(_, key)$/;"	f
+__index	lua/modules/ui/icons.lua	/^			__index = function(_, key)$/;"	f
+abort	install/install.sh	/^abort() {$/;"	f
+accelerated_jk	lua/modules/editor/config.lua	/^function config.accelerated_jk()$/;"	f	unknown:config
+alpha	lua/modules/ui/config.lua	/^function config.alpha()$/;"	f	unknown:config
+attach_mappings	lua/modules/tools/config.lua	/^		attach_mappings = function(_)$/;"	f
+auto_compile	lua/core/pack.lua	/^function plugins.auto_compile()$/;"	f	unknown:plugins
+auto_session	lua/modules/editor/config.lua	/^function config.auto_session()$/;"	f	unknown:config
+autopairs	lua/modules/completion/config.lua	/^function config.autopairs()$/;"	f	unknown:config
+autotag	lua/modules/editor/config.lua	/^function config.autotag()$/;"	f	unknown:config
+back_compile	lua/core/pack.lua	/^function plugins.back_compile()$/;"	f	unknown:plugins
+better_escape	lua/modules/editor/config.lua	/^function config.better_escape()$/;"	f	unknown:config
+body	my-snippets/snippets/c.json	/^		"body": [$/;"	a	object:fori
+body	my-snippets/snippets/cpp.json	/^        "body": [$/;"	a	object:lc
+body	my-snippets/snippets/cpp.json	/^        "body": [$/;"	a	object:solu
+body	my-snippets/snippets/go.json	/^    "body": "go ${1:func}($0)",$/;"	s	object:goroutine function
+body	my-snippets/snippets/go.json	/^    "body": "go func($1) {\\n\\t$0\\n}($2)",$/;"	s	object:goroutine anonymous function
+body	my-snippets/snippets/go.json	/^    "body": "map[${1:type}]${2:type}",$/;"	s	object:map declaration
+border	lua/modules/completion/config.lua	/^	local border = function(hl)$/;"	f
+button	lua/modules/ui/config.lua	/^	local function button(sc, txt, leader_txt, keybind, keybind_opts)$/;"	f
+callback	lua/core/pack.lua	/^		callback = function()$/;"	f
+callback	lua/modules/completion/formatting.lua	/^		callback = function()$/;"	f
+catppuccin	lua/modules/ui/config.lua	/^function config.catppuccin()$/;"	f	unknown:config
+check_ssh	install/install.sh	/^check_ssh() {$/;"	f
+chomp	install/install.sh	/^chomp() {$/;"	f
+click_support	lua/modules/completion/config.lua	/^			click_support = function(node, clicks, button, modifiers)$/;"	f
+clients	lua/modules/completion/formatting.lua	/^		clients = vim.tbl_filter(function(client)$/;"	f
+clients	lua/modules/completion/formatting.lua	/^	clients = vim.tbl_filter(function(client)$/;"	f
+clipboard_config	lua/core/init.lua	/^local clipboard_config = function()$/;"	f
+cmp	lua/modules/completion/config.lua	/^function config.cmp()$/;"	f	unknown:config
+complete	lua/modules/completion/formatting.lua	/^	complete = function(_, _, _)$/;"	f
+config	lua/modules/added/plugins.lua	/^	config = function()$/;"	f
+configure_format_on_save	lua/modules/completion/formatting.lua	/^function M.configure_format_on_save()$/;"	f	unknown:M
+contributes	my-snippets/package.json	/^  "contributes": {$/;"	o
+create_asyncrun_command	lua/core/init.lua	/^local create_asyncrun_command = function()$/;"	f
+createdir	lua/core/init.lua	/^local createdir = function()$/;"	f
+custom_attach	lua/modules/completion/lsp.lua	/^local function custom_attach(client, bufnr)$/;"	f
+dap	lua/modules/editor/config.lua	/^function config.dap()$/;"	f	unknown:config
+dapui	lua/modules/editor/config.lua	/^function config.dapui()$/;"	f	unknown:config
+description	my-snippets/snippets/c.json	/^		"description": "Code snippet for 'fori' loop"$/;"	s	object:fori
+description	my-snippets/snippets/cpp.json	/^        "description": "leetcode class Solution template"$/;"	s	object:solu
+description	my-snippets/snippets/cpp.json	/^        "description": "leetcode template"$/;"	s	object:lc
+description	my-snippets/snippets/go.json	/^    "description": "Snippet for a map"$/;"	s	object:map declaration
+description	my-snippets/snippets/go.json	/^    "description": "Snippet for anonymous goroutine declaration"$/;"	s	object:goroutine anonymous function
+description	my-snippets/snippets/go.json	/^    "description": "Snippet for goroutine declaration"$/;"	s	object:goroutine function
+diagnostics_indicator	lua/modules/ui/config.lua	/^			diagnostics_indicator = function(count)$/;"	f
+diff_source	lua/modules/ui/config.lua	/^	local function diff_source()$/;"	f
+disable_distribution_plugins	lua/core/init.lua	/^local disable_distribution_plugins = function()$/;"	f
+disable_format_on_save	lua/modules/completion/formatting.lua	/^function M.disable_format_on_save()$/;"	f	unknown:M
+edge	lua/modules/ui/config.lua	/^function config.edge()$/;"	f	unknown:config
+enable_format_on_save	lua/modules/completion/formatting.lua	/^function M.enable_format_on_save(is_configured)$/;"	f	unknown:M
+engines	my-snippets/package.json	/^  "engines": {$/;"	o
+enhance_align	lua/keymap/config.lua	/^_G.enhance_align = function(key)$/;"	f	unknown:_G
+enhance_ft_move	lua/keymap/config.lua	/^_G.enhance_ft_move = function(key)$/;"	f	unknown:_G
+enhance_jk_move	lua/keymap/config.lua	/^_G.enhance_jk_move = function(key)$/;"	f	unknown:_G
+ensure_plugins	lua/core/pack.lua	/^function plugins.ensure_plugins()$/;"	f	unknown:plugins
+env_cleanup	lua/modules/ui/config.lua	/^		local function env_cleanup(venv)$/;"	f
+escape_status	lua/modules/ui/config.lua	/^	local function escape_status()$/;"	f
+event_exited["dapui_config"]	lua/modules/editor/config.lua	/^	dap.listeners.after.event_exited["dapui_config"] = function()$/;"	f	unknown:dap.listeners.after
+event_initialized["dapui_config"]	lua/modules/editor/config.lua	/^	dap.listeners.after.event_initialized["dapui_config"] = function()$/;"	f	unknown:dap.listeners.after
+event_terminated["dapui_config"]	lua/modules/editor/config.lua	/^	dap.listeners.after.event_terminated["dapui_config"] = function()$/;"	f	unknown:dap.listeners.after
+execute	install/install.sh	/^execute() {$/;"	f
+expand	lua/modules/completion/config.lua	/^			expand = function(args)$/;"	f
+fidget	lua/modules/ui/config.lua	/^function config.fidget()$/;"	f	unknown:config
+footer	lua/modules/ui/config.lua	/^	local function footer()$/;"	f
+fori	my-snippets/snippets/c.json	/^	"fori": {$/;"	o
+format	lua/modules/completion/config.lua	/^			format = function(entry, vim_item)$/;"	f
+format	lua/modules/completion/formatting.lua	/^function M.format(opts)$/;"	f	unknown:M
+format_filter	lua/modules/completion/formatting.lua	/^function M.format_filter(clients)$/;"	f	unknown:M
+formatting_supported	lua/modules/completion/formatting.lua	/^		local status_ok, formatting_supported = pcall(function()$/;"	f
+get	lua/modules/ui/icons.lua	/^function icons.get(category, add_space)$/;"	f	unknown:icons
+get_modified_palette	lua/modules/ui/config.lua	/^	local function get_modified_palette()$/;"	f
+get_palette	lua/modules/completion/config.lua	/^	local function get_palette()$/;"	f
+get_plugins_list	lua/core/pack.lua	/^	local get_plugins_list = function()$/;"	f
+getc	install/install.sh	/^getc() {$/;"	f
+gitsigns	lua/modules/ui/config.lua	/^function config.gitsigns()$/;"	f	unknown:config
+go	lua/modules/editor/config.lua	/^	dap.adapters.go = function(callback, config)$/;"	f	unknown:dap.adapters
+goroutine anonymous function	my-snippets/snippets/go.json	/^  "goroutine anonymous function": {$/;"	o
+goroutine function	my-snippets/snippets/go.json	/^  "goroutine function": {$/;"	o
+has_words_before	lua/modules/completion/config.lua	/^	local has_words_before = function()$/;"	f
+hook	lua/modules/editor/config.lua	/^		hook = function()$/;"	f
+hop	lua/modules/editor/config.lua	/^function config.hop()$/;"	f	unknown:config
+illuminate	lua/modules/editor/config.lua	/^function config.illuminate()$/;"	f	unknown:config
+imselect	lua/modules/editor/config.lua	/^function config.imselect()$/;"	f	unknown:config
+indent_blankline	lua/modules/ui/config.lua	/^function config.indent_blankline()$/;"	f	unknown:config
+info	lua/modules/completion/config.lua	/^	cmp_window.info = function(self)$/;"	f	unknown:cmp_window
+init_ensure_plugins	lua/core/pack.lua	/^function Packer:init_ensure_plugins()$/;"	f	unknown:Packer
+is_latest	install/install.sh	/^is_latest() {$/;"	f
+isempty	lua/core/options.lua	/^	local function isempty(s)$/;"	f
+keys	lua/modules/editor/config.lua	/^		keys = "<Esc>", -- keys used for escaping, if it is a function will use the result everytime$/;"	f
+lang_go	lua/modules/lang/config.lua	/^function config.lang_go()$/;"	f	unknown:config
+language	my-snippets/package.json	/^        "language": "c",$/;"	s	object:contributes.snippets.1
+language	my-snippets/package.json	/^        "language": "cobol",$/;"	s	object:contributes.snippets.51
+language	my-snippets/package.json	/^        "language": "cobol",$/;"	s	object:contributes.snippets.52
+language	my-snippets/package.json	/^        "language": "cobol",$/;"	s	object:contributes.snippets.53
+language	my-snippets/package.json	/^        "language": "cobol",$/;"	s	object:contributes.snippets.54
+language	my-snippets/package.json	/^        "language": "cpp",$/;"	s	object:contributes.snippets.2
+language	my-snippets/package.json	/^        "language": "django",$/;"	s	object:contributes.snippets.44
+language	my-snippets/package.json	/^        "language": "django",$/;"	s	object:contributes.snippets.45
+language	my-snippets/package.json	/^        "language": "django",$/;"	s	object:contributes.snippets.46
+language	my-snippets/package.json	/^        "language": "django",$/;"	s	object:contributes.snippets.47
+language	my-snippets/package.json	/^        "language": "django",$/;"	s	object:contributes.snippets.48
+language	my-snippets/package.json	/^        "language": "eelixir",$/;"	s	object:contributes.snippets.8
+language	my-snippets/package.json	/^        "language": "ejs",$/;"	s	object:contributes.snippets.5
+language	my-snippets/package.json	/^        "language": "elixir",$/;"	s	object:contributes.snippets.7
+language	my-snippets/package.json	/^        "language": "eruby",$/;"	s	object:contributes.snippets.6
+language	my-snippets/package.json	/^        "language": "fennel",$/;"	s	object:contributes.snippets.14
+language	my-snippets/package.json	/^        "language": "flutter",$/;"	s	object:contributes.snippets.49
+language	my-snippets/package.json	/^        "language": "fortran",$/;"	s	object:contributes.snippets.9
+language	my-snippets/package.json	/^        "language": "gdscript",$/;"	s	object:contributes.snippets.64
+language	my-snippets/package.json	/^        "language": "glsl",$/;"	s	object:contributes.snippets.10
+language	my-snippets/package.json	/^        "language": "go",$/;"	s	object:contributes.snippets.13
+language	my-snippets/package.json	/^        "language": "haskell",$/;"	s	object:contributes.snippets.20
+language	my-snippets/package.json	/^        "language": "java",$/;"	s	object:contributes.snippets.28
+language	my-snippets/package.json	/^        "language": "javascriptreact",$/;"	s	object:contributes.snippets.33
+language	my-snippets/package.json	/^        "language": "jekyll",$/;"	s	object:contributes.snippets.50
+language	my-snippets/package.json	/^        "language": "kotlin",$/;"	s	object:contributes.snippets.55
+language	my-snippets/package.json	/^        "language": "liquid",$/;"	s	object:contributes.snippets.11
+language	my-snippets/package.json	/^        "language": "lua",$/;"	s	object:contributes.snippets.12
+language	my-snippets/package.json	/^        "language": "mint",$/;"	s	object:contributes.snippets.63
+language	my-snippets/package.json	/^        "language": "norg",$/;"	s	object:contributes.snippets.62
+language	my-snippets/package.json	/^        "language": "org",$/;"	s	object:contributes.snippets.61
+language	my-snippets/package.json	/^        "language": "php",$/;"	s	object:contributes.snippets.15
+language	my-snippets/package.json	/^        "language": "python",$/;"	s	object:contributes.snippets.39
+language	my-snippets/package.json	/^        "language": "python",$/;"	s	object:contributes.snippets.40
+language	my-snippets/package.json	/^        "language": "python",$/;"	s	object:contributes.snippets.41
+language	my-snippets/package.json	/^        "language": "python",$/;"	s	object:contributes.snippets.42
+language	my-snippets/package.json	/^        "language": "python",$/;"	s	object:contributes.snippets.43
+language	my-snippets/package.json	/^        "language": "rails",$/;"	s	object:contributes.snippets.18
+language	my-snippets/package.json	/^        "language": "rescript",$/;"	s	object:contributes.snippets.16
+language	my-snippets/package.json	/^        "language": "rmd",$/;"	s	object:contributes.snippets.60
+language	my-snippets/package.json	/^        "language": "ruby",$/;"	s	object:contributes.snippets.17
+language	my-snippets/package.json	/^        "language": "rust",$/;"	s	object:contributes.snippets.19
+language	my-snippets/package.json	/^        "language": "scala",$/;"	s	object:contributes.snippets.21
+language	my-snippets/package.json	/^        "language": "solidity",$/;"	s	object:contributes.snippets.22
+language	my-snippets/package.json	/^        "language": "sql",$/;"	s	object:contributes.snippets.24
+language	my-snippets/package.json	/^        "language": "swift",$/;"	s	object:contributes.snippets.23
+language	my-snippets/package.json	/^        "language": "twig",$/;"	s	object:contributes.snippets.58
+language	my-snippets/package.json	/^        "language": "typescriptreact",$/;"	s	object:contributes.snippets.34
+language	my-snippets/package.json	/^        "language": "vue",$/;"	s	object:contributes.snippets.35
+language	my-snippets/package.json	/^        "language": "vue",$/;"	s	object:contributes.snippets.36
+language	my-snippets/package.json	/^        "language": "vue",$/;"	s	object:contributes.snippets.37
+language	my-snippets/package.json	/^        "language": "vue",$/;"	s	object:contributes.snippets.38
+language	my-snippets/package.json	/^        "language": ["csharp", "cs"],$/;"	a	object:contributes.snippets.3
+language	my-snippets/package.json	/^        "language": ["css", "scss", "sass", "less", "stylus"],$/;"	a	object:contributes.snippets.30
+language	my-snippets/package.json	/^        "language": ["gitcommit", "NeogitCommitMessage"],$/;"	a	object:contributes.snippets.4
+language	my-snippets/package.json	/^        "language": ["html", "jade", "pug", "eruby"],$/;"	a	object:contributes.snippets.29
+language	my-snippets/package.json	/^        "language": ["javascript", "javascriptreact", "vue"],$/;"	a	object:contributes.snippets.31
+language	my-snippets/package.json	/^        "language": ["markdown", "rmd"],$/;"	a	object:contributes.snippets.26
+language	my-snippets/package.json	/^        "language": ["plaintex", "tex"],$/;"	a	object:contributes.snippets.27
+language	my-snippets/package.json	/^        "language": ["plaintex", "tex"],$/;"	a	object:contributes.snippets.56
+language	my-snippets/package.json	/^        "language": ["plaintex", "tex"],$/;"	a	object:contributes.snippets.57
+language	my-snippets/package.json	/^        "language": ["plaintext", "markdown", "tex", "html", "global"],$/;"	a	object:contributes.snippets.0
+language	my-snippets/package.json	/^        "language": ["r", "rmd"],$/;"	a	object:contributes.snippets.59
+language	my-snippets/package.json	/^        "language": ["shellscript", "shell", "sh"],$/;"	a	object:contributes.snippets.25
+language	my-snippets/package.json	/^        "language": ["typescript", "typescriptreact"],$/;"	a	object:contributes.snippets.32
+lc	my-snippets/snippets/cpp.json	/^    "lc": {$/;"	o
+leader_map	lua/core/init.lua	/^local leader_map = function()$/;"	f
+load_autocmds	lua/core/event.lua	/^function autocmd.load_autocmds()$/;"	f	unknown:autocmd
+load_compile	lua/core/pack.lua	/^function plugins.load_compile()$/;"	f	unknown:plugins
+load_core	lua/core/init.lua	/^local load_core = function()$/;"	f
+load_options	lua/core/options.lua	/^local function load_options()$/;"	f
+load_packer	lua/core/pack.lua	/^function Packer:load_packer()$/;"	f	unknown:Packer
+load_plugins	lua/core/pack.lua	/^function Packer:load_plugins()$/;"	f	unknown:Packer
+load_variables	lua/core/global.lua	/^function global:load_variables()$/;"	f	unknown:global
+lspsaga	lua/modules/completion/config.lua	/^function config.lspsaga()$/;"	f	unknown:config
+lualine	lua/modules/ui/config.lua	/^function config.lualine()$/;"	f	unknown:config
+luasnip	lua/modules/completion/config.lua	/^function config.luasnip()$/;"	f	unknown:config
+magma	lua/modules/added/config.lua	/^function config.magma()$/;"	f	unknown:config
+major_minor	install/install.sh	/^major_minor() {$/;"	f
+map declaration	my-snippets/snippets/go.json	/^  "map declaration": {$/;"	o
+map_args	lua/keymap/bind.lua	/^function pbind.map_args(cmd_string)$/;"	f	unknown:pbind
+map_args	lua/keymap/bind.lua	/^function rhs_options:map_args(cmd_string)$/;"	f	unknown:rhs_options
+map_cmd	lua/keymap/bind.lua	/^function pbind.map_cmd(cmd_string)$/;"	f	unknown:pbind
+map_cmd	lua/keymap/bind.lua	/^function rhs_options:map_cmd(cmd_string)$/;"	f	unknown:rhs_options
+map_cr	lua/keymap/bind.lua	/^function pbind.map_cr(cmd_string)$/;"	f	unknown:pbind
+map_cr	lua/keymap/bind.lua	/^function rhs_options:map_cr(cmd_string)$/;"	f	unknown:rhs_options
+map_cu	lua/keymap/bind.lua	/^function pbind.map_cu(cmd_string)$/;"	f	unknown:pbind
+map_cu	lua/keymap/bind.lua	/^function rhs_options:map_cu(cmd_string)$/;"	f	unknown:rhs_options
+mason_install	lua/modules/completion/config.lua	/^function config.mason_install()$/;"	f	unknown:config
+name	my-snippets/package.json	/^  "name": "my-snippets",$/;"	s
+neoscroll	lua/modules/editor/config.lua	/^function config.neoscroll()$/;"	f	unknown:config
+neovide_config	lua/core/init.lua	/^local neovide_config = function()$/;"	f
+new	lua/keymap/bind.lua	/^function rhs_options:new()$/;"	f	unknown:rhs_options
+nord	lua/modules/ui/config.lua	/^function config.nord()$/;"	f	unknown:config
+notify	lua/modules/ui/config.lua	/^function config.notify()$/;"	f	unknown:config
+nvim_bufferline	lua/modules/ui/config.lua	/^function config.nvim_bufferline()$/;"	f	unknown:config
+nvim_colorizer	lua/modules/editor/config.lua	/^function config.nvim_colorizer()$/;"	f	unknown:config
+nvim_comment	lua/modules/editor/config.lua	/^function config.nvim_comment()$/;"	f	unknown:config
+nvim_create_augroups	lua/core/event.lua	/^function autocmd.nvim_create_augroups(definitions)$/;"	f	unknown:autocmd
+nvim_load_mapping	lua/keymap/bind.lua	/^function pbind.nvim_load_mapping(mapping)$/;"	f	unknown:pbind
+nvim_lsp	lua/modules/completion/config.lua	/^function config.nvim_lsp()$/;"	f	unknown:config
+nvim_tree	lua/modules/ui/config.lua	/^function config.nvim_tree()$/;"	f	unknown:config
+nvim_treesitter	lua/modules/editor/config.lua	/^function config.nvim_treesitter()$/;"	f	unknown:config
+nvimr	lua/modules/added/config.lua	/^function config.nvimr()$/;"	f	unknown:config
+on_initialized	lua/modules/lang/config.lua	/^			on_initialized = function()$/;"	f
+on_open	lua/modules/editor/config.lua	/^		on_open = function()$/;"	f
+on_press	lua/modules/ui/config.lua	/^		local function on_press()$/;"	f
+open_fn	lua/core/pack.lua	/^				open_fn = function()$/;"	f
+path	my-snippets/package.json	/^        "path": ".\/snippets\/c.json"$/;"	s	object:contributes.snippets.1
+path	my-snippets/package.json	/^        "path": ".\/snippets\/cobol\/vscode_cobol-compound.json"$/;"	s	object:contributes.snippets.52
+path	my-snippets/package.json	/^        "path": ".\/snippets\/cobol\/vscode_cobol.json"$/;"	s	object:contributes.snippets.51
+path	my-snippets/package.json	/^        "path": ".\/snippets\/cobol\/vscode_cobol_dir.json"$/;"	s	object:contributes.snippets.53
+path	my-snippets/package.json	/^        "path": ".\/snippets\/cobol\/vscode_cobol_jcl.json"$/;"	s	object:contributes.snippets.54
+path	my-snippets/package.json	/^        "path": ".\/snippets\/cpp.json"$/;"	s	object:contributes.snippets.2
+path	my-snippets/package.json	/^        "path": ".\/snippets\/csharp.json"$/;"	s	object:contributes.snippets.3
+path	my-snippets/package.json	/^        "path": ".\/snippets\/css.json"$/;"	s	object:contributes.snippets.30
+path	my-snippets/package.json	/^        "path": ".\/snippets\/eelixir.json"$/;"	s	object:contributes.snippets.8
+path	my-snippets/package.json	/^        "path": ".\/snippets\/elixir.json"$/;"	s	object:contributes.snippets.7
+path	my-snippets/package.json	/^        "path": ".\/snippets\/erb.json"$/;"	s	object:contributes.snippets.6
+path	my-snippets/package.json	/^        "path": ".\/snippets\/fennel.json"$/;"	s	object:contributes.snippets.14
+path	my-snippets/package.json	/^        "path": ".\/snippets\/fortran.json"$/;"	s	object:contributes.snippets.9
+path	my-snippets/package.json	/^        "path": ".\/snippets\/frameworks\/django\/filetemplates.json"$/;"	s	object:contributes.snippets.48
+path	my-snippets/package.json	/^        "path": ".\/snippets\/frameworks\/django\/forms.json"$/;"	s	object:contributes.snippets.45
+path	my-snippets/package.json	/^        "path": ".\/snippets\/frameworks\/django\/imports.json"$/;"	s	object:contributes.snippets.44
+path	my-snippets/package.json	/^        "path": ".\/snippets\/frameworks\/django\/models.json"$/;"	s	object:contributes.snippets.46
+path	my-snippets/package.json	/^        "path": ".\/snippets\/frameworks\/django\/views.json"$/;"	s	object:contributes.snippets.47
+path	my-snippets/package.json	/^        "path": ".\/snippets\/frameworks\/ejs.json"$/;"	s	object:contributes.snippets.5
+path	my-snippets/package.json	/^        "path": ".\/snippets\/frameworks\/flutter.json"$/;"	s	object:contributes.snippets.49
+path	my-snippets/package.json	/^        "path": ".\/snippets\/frameworks\/jekyll.json"$/;"	s	object:contributes.snippets.50
+path	my-snippets/package.json	/^        "path": ".\/snippets\/frameworks\/rails.json"$/;"	s	object:contributes.snippets.18
+path	my-snippets/package.json	/^        "path": ".\/snippets\/frameworks\/twig.json"$/;"	s	object:contributes.snippets.58
+path	my-snippets/package.json	/^        "path": ".\/snippets\/frameworks\/vue\/html.json"$/;"	s	object:contributes.snippets.35
+path	my-snippets/package.json	/^        "path": ".\/snippets\/frameworks\/vue\/javascript.json"$/;"	s	object:contributes.snippets.37
+path	my-snippets/package.json	/^        "path": ".\/snippets\/frameworks\/vue\/pug.json"$/;"	s	object:contributes.snippets.36
+path	my-snippets/package.json	/^        "path": ".\/snippets\/frameworks\/vue\/vue.json"$/;"	s	object:contributes.snippets.38
+path	my-snippets/package.json	/^        "path": ".\/snippets\/gdscript.json"$/;"	s	object:contributes.snippets.64
+path	my-snippets/package.json	/^        "path": ".\/snippets\/gitcommit.json"$/;"	s	object:contributes.snippets.4
+path	my-snippets/package.json	/^        "path": ".\/snippets\/global.json"$/;"	s	object:contributes.snippets.0
+path	my-snippets/package.json	/^        "path": ".\/snippets\/glsl.json"$/;"	s	object:contributes.snippets.10
+path	my-snippets/package.json	/^        "path": ".\/snippets\/go.json"$/;"	s	object:contributes.snippets.13
+path	my-snippets/package.json	/^        "path": ".\/snippets\/haskell.json"$/;"	s	object:contributes.snippets.20
+path	my-snippets/package.json	/^        "path": ".\/snippets\/html.json"$/;"	s	object:contributes.snippets.29
+path	my-snippets/package.json	/^        "path": ".\/snippets\/java.json"$/;"	s	object:contributes.snippets.28
+path	my-snippets/package.json	/^        "path": ".\/snippets\/javascript\/javascript.json"$/;"	s	object:contributes.snippets.31
+path	my-snippets/package.json	/^        "path": ".\/snippets\/javascript\/react-ts.json"$/;"	s	object:contributes.snippets.34
+path	my-snippets/package.json	/^        "path": ".\/snippets\/javascript\/react.json"$/;"	s	object:contributes.snippets.33
+path	my-snippets/package.json	/^        "path": ".\/snippets\/javascript\/typescript.json"$/;"	s	object:contributes.snippets.32
+path	my-snippets/package.json	/^        "path": ".\/snippets\/kotlin.json"$/;"	s	object:contributes.snippets.55
+path	my-snippets/package.json	/^        "path": ".\/snippets\/latex.json"$/;"	s	object:contributes.snippets.27
+path	my-snippets/package.json	/^        "path": ".\/snippets\/latex\/latex-snippets.json"$/;"	s	object:contributes.snippets.56
+path	my-snippets/package.json	/^        "path": ".\/snippets\/latex\/vscode-latex-snippets.json"$/;"	s	object:contributes.snippets.57
+path	my-snippets/package.json	/^        "path": ".\/snippets\/liquid.json"$/;"	s	object:contributes.snippets.11
+path	my-snippets/package.json	/^        "path": ".\/snippets\/lua.json"$/;"	s	object:contributes.snippets.12
+path	my-snippets/package.json	/^        "path": ".\/snippets\/markdown.json"$/;"	s	object:contributes.snippets.26
+path	my-snippets/package.json	/^        "path": ".\/snippets\/mint.json"$/;"	s	object:contributes.snippets.63
+path	my-snippets/package.json	/^        "path": ".\/snippets\/norg.json"$/;"	s	object:contributes.snippets.62
+path	my-snippets/package.json	/^        "path": ".\/snippets\/org.json"$/;"	s	object:contributes.snippets.61
+path	my-snippets/package.json	/^        "path": ".\/snippets\/php.json"$/;"	s	object:contributes.snippets.15
+path	my-snippets/package.json	/^        "path": ".\/snippets\/python\/base.json"$/;"	s	object:contributes.snippets.39
+path	my-snippets/package.json	/^        "path": ".\/snippets\/python\/comprehension.json"$/;"	s	object:contributes.snippets.40
+path	my-snippets/package.json	/^        "path": ".\/snippets\/python\/debug.json"$/;"	s	object:contributes.snippets.41
+path	my-snippets/package.json	/^        "path": ".\/snippets\/python\/python.json"$/;"	s	object:contributes.snippets.42
+path	my-snippets/package.json	/^        "path": ".\/snippets\/python\/unittest.json"$/;"	s	object:contributes.snippets.43
+path	my-snippets/package.json	/^        "path": ".\/snippets\/r.json"$/;"	s	object:contributes.snippets.59
+path	my-snippets/package.json	/^        "path": ".\/snippets\/rescript.json"$/;"	s	object:contributes.snippets.16
+path	my-snippets/package.json	/^        "path": ".\/snippets\/rmarkdown.json"$/;"	s	object:contributes.snippets.60
+path	my-snippets/package.json	/^        "path": ".\/snippets\/ruby.json"$/;"	s	object:contributes.snippets.17
+path	my-snippets/package.json	/^        "path": ".\/snippets\/rust.json"$/;"	s	object:contributes.snippets.19
+path	my-snippets/package.json	/^        "path": ".\/snippets\/scala.json"$/;"	s	object:contributes.snippets.21
+path	my-snippets/package.json	/^        "path": ".\/snippets\/shell.json"$/;"	s	object:contributes.snippets.25
+path	my-snippets/package.json	/^        "path": ".\/snippets\/solidity.json"$/;"	s	object:contributes.snippets.22
+path	my-snippets/package.json	/^        "path": ".\/snippets\/sql.json"$/;"	s	object:contributes.snippets.24
+path	my-snippets/package.json	/^        "path": ".\/snippets\/swift.json"$/;"	s	object:contributes.snippets.23
+pid_or_err	lua/modules/editor/config.lua	/^		handle, pid_or_err = vim.loop.spawn("dlv", opts, function(code)$/;"	f
+post	lua/modules/tools/config.lua	/^				post = function()$/;"	f
+prefix	my-snippets/snippets/c.json	/^		"prefix": "fori",$/;"	s	object:fori
+prefix	my-snippets/snippets/cpp.json	/^        "prefix": "lc",$/;"	s	object:lc
+prefix	my-snippets/snippets/cpp.json	/^        "prefix": "solu",$/;"	s	object:solu
+prefix	my-snippets/snippets/go.json	/^    "prefix": "gf",$/;"	s	object:goroutine function
+prefix	my-snippets/snippets/go.json	/^    "prefix": "go",$/;"	s	object:goroutine anonymous function
+prefix	my-snippets/snippets/go.json	/^    "prefix": "map",$/;"	s	object:map declaration
+program	lua/modules/editor/config.lua	/^			program = function()$/;"	f
+prompt	install/install.sh	/^prompt() {$/;"	f
+pythonPath	lua/modules/editor/config.lua	/^			pythonPath = function()$/;"	f
+python_venv	lua/modules/ui/config.lua	/^	local function python_venv()$/;"	f
+ring_bell	install/install.sh	/^ring_bell() {$/;"	f
+rosepine	lua/modules/added/config.lua	/^function config.rosepine()$/;"	f	unknown:config
+rust_tools	lua/modules/lang/config.lua	/^function config.rust_tools()$/;"	f	unknown:config
+scrollview	lua/modules/ui/config.lua	/^function config.scrollview()$/;"	f	unknown:config
+set_sidebar_icons	lua/modules/completion/config.lua	/^	local function set_sidebar_icons()$/;"	f
+shell_join	install/install.sh	/^shell_join() {$/;"	f
+size	lua/modules/editor/config.lua	/^		size = function(term)$/;"	f
+snippets	my-snippets/package.json	/^    "snippets": [$/;"	a	object:contributes
+sniprun	lua/modules/tools/config.lua	/^function config.sniprun()$/;"	f	unknown:config
+solu	my-snippets/snippets/cpp.json	/^    "solu": {$/;"	o
+specs	lua/modules/editor/config.lua	/^function config.specs()$/;"	f	unknown:config
+switch_source_header_splitcmd	lua/modules/completion/lsp.lua	/^local function switch_source_header_splitcmd(bufnr, splitcmd)$/;"	f
+t	lua/keymap/config.lua	/^local t = function(str)$/;"	f
+t	lua/modules/completion/config.lua	/^	local t = function(str)$/;"	f
+tabnine	lua/modules/completion/config.lua	/^function config.tabnine()$/;"	f	unknown:config
+tabout	lua/modules/editor/config.lua	/^function config.tabout()$/;"	f	unknown:config
+tasks	lua/modules/added/config.lua	/^function config.tasks()$/;"	f	unknown:config
+telescope	lua/modules/tools/config.lua	/^function config.telescope()$/;"	f	unknown:config
+toggle_format_on_save	lua/modules/completion/formatting.lua	/^function M.toggle_format_on_save()$/;"	f	unknown:M
+toggle_lazygit	lua/keymap/config.lua	/^_G.toggle_lazygit = function()$/;"	f	unknown:_G
+toggleterm	lua/modules/editor/config.lua	/^function config.toggleterm()$/;"	f	unknown:config
+trouble	lua/modules/tools/config.lua	/^function config.trouble()$/;"	f	unknown:config
+tty_escape	install/install.sh	/^	tty_escape() { :; }$/;"	f
+tty_escape	install/install.sh	/^	tty_escape() { printf "\\033[%sm" "$1"; }$/;"	f
+tty_mkbold	install/install.sh	/^tty_mkbold() { tty_escape "1;$1"; }$/;"	f
+version_ge	install/install.sh	/^version_ge() {$/;"	f
+vimtex	lua/modules/added/config.lua	/^function config.vimtex()$/;"	f	unknown:config
+vscode	my-snippets/package.json	/^    "vscode": "^1.11.0"$/;"	s	object:engines
+wait_for_user	install/install.sh	/^wait_for_user() {$/;"	f
+warn	install/install.sh	/^warn() {$/;"	f
+which_key	lua/modules/tools/config.lua	/^function config.which_key()$/;"	f	unknown:config
+wilder	lua/modules/tools/config.lua	/^function config.wilder()$/;"	f	unknown:config
+with_buffer	lua/keymap/bind.lua	/^function rhs_options:with_buffer(num)$/;"	f	unknown:rhs_options
+with_expr	lua/keymap/bind.lua	/^function rhs_options:with_expr()$/;"	f	unknown:rhs_options
+with_noremap	lua/keymap/bind.lua	/^function rhs_options:with_noremap()$/;"	f	unknown:rhs_options
+with_nowait	lua/keymap/bind.lua	/^function rhs_options:with_nowait()$/;"	f	unknown:rhs_options
+with_silent	lua/keymap/bind.lua	/^function rhs_options:with_silent()$/;"	f	unknown:rhs_options
